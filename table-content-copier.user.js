@@ -2,7 +2,7 @@
 // @name         테이블 내용 복사기
 // @namespace    https://github.com/wprnrqnf/table-content-copier
 // @version      1.1
-// @description  테이블 내용을 복사 아이콘을 통해 복사하는 스크립트 (이미지 이모지 지원)
+// @description  테이블 내용을 복사 아이콘을 통해 복사하는 스크립트
 // @author       Cuckoo Hunter
 // @match        https://arca.live/b/characterai*
 // @grant        GM_setClipboard
