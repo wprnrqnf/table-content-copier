@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         테이블 내용 복사기
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  테이블 내용을 아이콘을 통해 복사하는 스크립트
-// @author       Cuckoo Hunter
-// @match        https://arca.live/b/characterai*
+// @namespace    https://github.com/your-username/table-content-copier
+// @version      1.1
+// @description  테이블 내용을 복사 아이콘을 통해 복사하는 스크립트 (이미지 이모지 지원)
+// @author       Your Name
+// @match        *://*/*
 // @grant        GM_setClipboard
 // @grant        GM_addStyle
+// @downloadURL  https://raw.githubusercontent.com/your-username/table-content-copier/main/table-content-copier.user.js
+// @updateURL    https://raw.githubusercontent.com/your-username/table-content-copier/main/table-content-copier.user.js
 // ==/UserScript==
 
 (function() {
