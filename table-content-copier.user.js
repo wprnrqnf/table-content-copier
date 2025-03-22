@@ -3,8 +3,8 @@
 // @namespace    https://github.com/wprnrqnf/table-content-copier
 // @version      1.1
 // @description  테이블 내용을 복사 아이콘을 통해 복사하는 스크립트 (이미지 이모지 지원)
-// @author       Your Name
-// @match        *://*/*
+// @author       Cuckoo Hunter
+// @match        https://arca.live/b/characterai*
 // @grant        GM_setClipboard
 // @grant        GM_addStyle
 // @downloadURL  https://raw.githubusercontent.com/wprnrqnf/table-content-copier/refs/heads/main/table-content-copier.user.js
